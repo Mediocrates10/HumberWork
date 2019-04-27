@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9764eeef52434d243b90756065e3c04f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvas: {instanceID: 0}
+  - pauseMenu: {fileID: 224271771621715634, guid: 4723e598c96741e4a9fcde96ab00fb3e,
+      type: 2}
+  - optionsMenu: {fileID: 224271771621715634, guid: 4723e598c96741e4a9fcde96ab00fb3e,
+      type: 2}
+  - arrowSpawn: {instanceID: 0}
+  - ani: {instanceID: 0}
+  - arrowPrefab: {fileID: 1365396723889712, guid: 0b2c3b43df90dd043a434b95f6a17862,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

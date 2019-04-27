@@ -1,0 +1,10 @@
+﻿  Client.cpp
+c:\users\kevin\desktop\semester 6\networking\tcpclient\tcpclient\client.cpp(60): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\kevin\desktop\semester 6\networking\tcpclient\tcpclient\client.cpp(60): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\kevin\desktop\semester 6\networking\tcpclient\tcpclient\client.cpp(90): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\kevin\desktop\semester 6\networking\tcpclient\tcpclient\client.cpp(90): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\kevin\desktop\semester 6\networking\tcpclient\tcpclient\client.cpp(106): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\kevin\desktop\semester 6\networking\tcpclient\tcpclient\client.cpp(106): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\kevin\desktop\semester 6\networking\tcpclient\tcpclient\client.cpp(118): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\kevin\desktop\semester 6\networking\tcpclient\tcpclient\client.cpp(118): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  TCPClient.vcxproj -> C:\Users\Kevin\Desktop\Semester 6\Networking\TCPClient\Debug\TCPClient.exe

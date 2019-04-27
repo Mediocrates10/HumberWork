@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0c43eb0f9813ce748834b1c80a962b1d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthFill: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - damageTextPrefab: {instanceID: 0}
+  - damageTextParent: {instanceID: 0}
+  - barrierPrefab: {fileID: 1190857057832032, guid: ac7749f0587a53f45bf71250259ae98a,
+      type: 2}
+  - cText: {instanceID: 0}
+  - uiHealthNumber: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - character: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

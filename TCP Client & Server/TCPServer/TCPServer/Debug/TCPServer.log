@@ -1,0 +1,8 @@
+﻿  Server.cpp
+c:\users\kevin\desktop\semester 6\networking\tcpserver\tcpserver\server.cpp(88): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\kevin\desktop\semester 6\networking\tcpserver\tcpserver\server.cpp(88): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\kevin\desktop\semester 6\networking\tcpserver\tcpserver\server.cpp(113): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\kevin\desktop\semester 6\networking\tcpserver\tcpserver\server.cpp(113): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\kevin\desktop\semester 6\networking\tcpserver\tcpserver\server.cpp(125): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\kevin\desktop\semester 6\networking\tcpserver\tcpserver\server.cpp(125): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  TCPServer.vcxproj -> C:\Users\Kevin\Desktop\Semester 6\Networking\TCPServer\Debug\TCPServer.exe

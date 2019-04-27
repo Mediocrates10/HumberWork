@@ -1,0 +1,2 @@
+INFO: Initializing the window and first scene ( c:\users\kevin\desktop\graphics\componentframework\gamescenemanager.cpp: 120)
+INFO: 1.13.0 ( c:\users\kevin\desktop\graphics\componentframework\window.cpp: 66)
